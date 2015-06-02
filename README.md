@@ -5,10 +5,10 @@ This theme was inspired by my quest to find the perfect theme for my way to ofte
 ##Screenshots
 
 ###HTML
-![HTML Screenshot](http://github.com/ChynoDeluxe/dark-deluxe-theme/screenshot/html.jpeg)
+![HTML Screenshot](https://github.com/ChynoDeluxe/dark-deluxe-theme/blob/master/screenshots/html.png)
 ###CSS
-![CSS Screenshot](http://github.com/ChynoDeluxe/dark-deluxe-theme/screenshot/css.jpeg)
+![CSS Screenshot](https://github.com/ChynoDeluxe/dark-deluxe-theme/blob/master/screenshots/css.png)
 ###JavaScript
-![JavaScript Screenshot](http://github.com/ChynoDeluxe/dark-deluxe-theme/screenshot/js.jpeg)
+![JavaScript Screenshot](https://github.com/ChynoDeluxe/dark-deluxe-theme/blob/master/screenshots/js.png)
 ###PHP
-![PHP Screenshot](http://github.com/ChynoDeluxe/dark-deluxe-theme/screenshot/php.jpeg)
+![PHP Screenshot](https://github.com/ChynoDeluxe/dark-deluxe-theme/blob/master/screenshots/php.png)
