@@ -6,7 +6,9 @@
     "version": "1.0.1",
     "author": "Chyno Deluxe <chynodeluxe@gmail.com> (https://github.com/ChynoDeluxe/)",
     "license": "MIT",
-    "theme": {
+    "engines": {
+        "brackets": ">=0.24.0"
+    },"theme": {
         "file": "theme.less",
         "dark": true,
         "addModeClass": true
